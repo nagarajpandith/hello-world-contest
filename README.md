@@ -1,5 +1,5 @@
 # Hello World! Contest Solutions
-<img src="https://github.com/nagarajpandith/hello-world-contest/blob/main/img/compressed-images/Hello%20World!%20Contest%20Final%20Poster.png?raw=true" width="500" height="600">
+<img src="https://github.com/nagarajpandith/hello-world-contest/blob/main/img/compressed-images/Hello%20World!%20Contest%20Final%20Poster.png?raw=true" width="481" height="768">
 
 Repo for solutions for all problems given during contest.
  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
