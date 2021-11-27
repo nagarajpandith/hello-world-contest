@@ -33,7 +33,6 @@ while(t--){
             if(c1!=0&&c2!=0)total=((total%mod)+((sumx+((y[i]*c1)%mod))*(((c2*y[i])%mod)+sumz))%mod)%mod;
  
         }
- 
         printf("%llu\n",total);
  
 }
