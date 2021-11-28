@@ -8,4 +8,5 @@ Repo for solutions for all problems given during contest.
     <li><a href="https://github.com/nagarajpandith/hello-world-contest/tree/main/Python%203.6">Python 3.6 Solutions</a></li>
     <li><a href="https://github.com/nagarajpandith/hello-world-contest/tree/main/img">Images</a><ul><li><a href="https://github.com/nagarajpandith/hello-world-contest/tree/main/img/compressed-images">Compressed Images</a></li></ul></li>
     <li><a href="https://www.codechef.com/HWRL2021/">Contest Page</a></li>
+    <li><a href="https://github.com/nagarajpandith/hello-world-contest/blob/main/note.md">Note from our side</a></li>
   </ol>
