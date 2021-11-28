@@ -47,5 +47,5 @@ min[1] = 2;
     }
     return 0;
 }
-/* There are ther approaches to this problem. 
+/* There are different approaches to this problem. 
 Have a look at Code submissions - https://www.codechef.com/HWRL2021/status/HWRL2107 */
