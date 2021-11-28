@@ -45,7 +45,6 @@ min[1] = 2;
             cout<<"0"<<endl;
         }
     }
- 
     return 0;
 }
 /* There are ther approaches to this problem. 
